@@ -18,9 +18,20 @@ Important: This is work inprogress.
 * pip install [python-magic-bin](https://pypi.org/project/python-magic-bin/)
 * pip install [chromadb](https://pypi.org/project/chromadb/)
 * pip install [nltk](https://www.nltk.org/)
-* pip install [langchain \[all\]](https://python.langchain.com/en/latest/index.html)
+* pip install [langchain\[all\]](https://python.langchain.com/en/latest/index.html)
 * pip install --upgrade langchain
 * pip install [pyyaml](https://pypi.org/project/PyYAML/)
+* pip install [blobfile](https://pypi.org/project/blobfile/)
+* pip install [cffi](https://cffi.readthedocs.io/en/latest/)
+* pip install [cryptography](https://cryptography.io/en/latest/)
+* pip install [protobuf](https://github.com/protocolbuffers/protobuf)
+* pip install [h2](https://pypi.org/project/h2/)
+* pip install [iniconfig](https://pypi.org/project/iniconfig/)
+* pip install [pluggy](https://pluggy.readthedocs.io/en/stable/)
+* pip install [pyproject_hooks](https://github.com/pypa/pyproject-hooks)
+* pip install [tzdata](https://pypi.org/project/tzdata/)
+* pip install [win32-setctime](https://pypi.org/project/win32-setctime/)
+* pip install [XlsxWriter](https://pypi.org/project/XlsxWriter/)
 
 
 
