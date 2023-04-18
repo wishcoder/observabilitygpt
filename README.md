@@ -1,6 +1,7 @@
 # Observability GPT
 
-GPT for Reliability Engineering using OpenAPI and LangChain
+ChatGPT plugin for Reliability Engineering Observability using OpenAPI and LangChain
+
 ![Observability GPT](https://github.com/wishcoder/observabilitygpt/blob/main/images/Observability-GPT-Small.png)
 
 # python modules and steps
